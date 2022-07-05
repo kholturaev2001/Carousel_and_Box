@@ -1,0 +1,1407 @@
+[
+    {
+      "regionName": "somoni",
+      "data": [
+        {
+          "name": "Синфҳои 1",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 280,
+            "girls": 140
+          },
+          "russian": {
+            "numberOfClasses": 6,
+            "studentCount": 231,
+            "girls": 99
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 15,
+            "studentCount": 511,
+            "girls": 239
+          }
+        },
+        {
+          "name": "Синфҳои 2",
+          "tajik": {
+            "numberOfClasses": 11,
+            "studentCount": 361,
+            "girls": 216
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 125,
+            "girls": 56
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 486,
+            "girls": 272
+          }
+        },
+        {
+          "name": "Синфҳои 3",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 310,
+            "girls": 199
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 158,
+            "girls": 75
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 13,
+            "studentCount": 468,
+            "girls": 274
+          }
+        },
+        {
+          "name": "Синфҳои 4",
+          "tajik": {
+            "numberOfClasses": 8,
+            "studentCount": 319,
+            "girls": 235
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 165,
+            "girls": 59
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 12,
+            "studentCount": 484,
+            "girls": 294
+          }
+        },
+        {
+          "name": "Синфҳои 5",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 334,
+            "girls": 160
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 127,
+            "girls": 56
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 461,
+            "girls": 216
+          }
+        },
+        {
+          "name": "Синфҳои 6",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 347,
+            "girls": 183
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 106,
+            "girls": 45
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 453,
+            "girls": 228
+          }
+        },
+        {
+          "name": "Синфҳои 7",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 325,
+            "girls": 168
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 87,
+            "girls": 39
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 13,
+            "studentCount": 412,
+            "girls": 207
+          }
+        },
+        {
+          "name": "Синфҳои 8",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 289,
+            "girls": 132
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 79,
+            "girls": 41
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 12,
+            "studentCount": 368,
+            "girls": 173
+          }
+        },
+        {
+          "name": "Синфҳои 9",
+          "tajik": {
+            "numberOfClasses": 8,
+            "studentCount": 233,
+            "girls": 110
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 55,
+            "girls": 37
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 10,
+            "studentCount": 288,
+            "girls": 147
+          }
+        },
+        {
+          "name": "Синфҳои 10",
+          "tajik": {
+            "numberOfClasses": 6,
+            "studentCount": 178,
+            "girls": 84
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 58,
+            "girls": 36
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 8,
+            "studentCount": 236,
+            "girls": 120
+          }
+        },
+        {
+          "name": "Синфҳои 11",
+          "tajik": {
+            "numberOfClasses": 6,
+            "studentCount": 162,
+            "girls": 87
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 55,
+            "girls": 27
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 8,
+            "studentCount": 217,
+            "girls": 114
+          }
+        },
+        {
+          "name": "Ҳамагӣ",
+          "tajik": {
+            "numberOfClasses": 96,
+            "studentCount": 3138,
+            "girls": 1714
+          },
+          "russian": {
+            "numberOfClasses": 37,
+            "studentCount": 1246,
+            "girls": 570
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 133,
+            "studentCount": 4384,
+            "girls": 2284
+          }
+        }
+      ]
+    },
+    {
+      "regionName": "shohmansur",
+      "data": [
+        {
+          "name": "Синфҳои 1",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 280,
+            "girls": 140
+          },
+          "russian": {
+            "numberOfClasses": 6,
+            "studentCount": 231,
+            "girls": 99
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 15,
+            "studentCount": 511,
+            "girls": 239
+          }
+        },
+        {
+          "name": "Синфҳои 2",
+          "tajik": {
+            "numberOfClasses": 11,
+            "studentCount": 361,
+            "girls": 216
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 125,
+            "girls": 56
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 486,
+            "girls": 272
+          }
+        },
+        {
+          "name": "Синфҳои 3",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 310,
+            "girls": 199
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 158,
+            "girls": 75
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 13,
+            "studentCount": 468,
+            "girls": 274
+          }
+        },
+        {
+          "name": "Синфҳои 4",
+          "tajik": {
+            "numberOfClasses": 8,
+            "studentCount": 319,
+            "girls": 235
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 165,
+            "girls": 59
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 12,
+            "studentCount": 484,
+            "girls": 294
+          }
+        },
+        {
+          "name": "Синфҳои 5",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 334,
+            "girls": 160
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 127,
+            "girls": 56
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 461,
+            "girls": 216
+          }
+        },
+        {
+          "name": "Синфҳои 6",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 347,
+            "girls": 183
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 106,
+            "girls": 45
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 453,
+            "girls": 228
+          }
+        },
+        {
+          "name": "Синфҳои 7",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 325,
+            "girls": 168
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 87,
+            "girls": 39
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 13,
+            "studentCount": 412,
+            "girls": 207
+          }
+        },
+        {
+          "name": "Синфҳои 8",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 289,
+            "girls": 132
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 79,
+            "girls": 41
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 12,
+            "studentCount": 368,
+            "girls": 173
+          }
+        },
+        {
+          "name": "Синфҳои 9",
+          "tajik": {
+            "numberOfClasses": 8,
+            "studentCount": 233,
+            "girls": 110
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 55,
+            "girls": 37
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 10,
+            "studentCount": 288,
+            "girls": 147
+          }
+        },
+        {
+          "name": "Синфҳои 10",
+          "tajik": {
+            "numberOfClasses": 6,
+            "studentCount": 178,
+            "girls": 84
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 58,
+            "girls": 36
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 8,
+            "studentCount": 236,
+            "girls": 120
+          }
+        },
+        {
+          "name": "Синфҳои 11",
+          "tajik": {
+            "numberOfClasses": 6,
+            "studentCount": 162,
+            "girls": 87
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 55,
+            "girls": 27
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 8,
+            "studentCount": 217,
+            "girls": 114
+          }
+        },
+        {
+          "name": "Ҳамагӣ",
+          "tajik": {
+            "numberOfClasses": 96,
+            "studentCount": 3138,
+            "girls": 1714
+          },
+          "russian": {
+            "numberOfClasses": 37,
+            "studentCount": 1246,
+            "girls": 570
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 133,
+            "studentCount": 4384,
+            "girls": 2284
+          }
+        }
+      ]
+    },
+    {
+      "regionName": "sino",
+      "data": [
+        {
+          "name": "Синфҳои 1",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 280,
+            "girls": 140
+          },
+          "russian": {
+            "numberOfClasses": 6,
+            "studentCount": 231,
+            "girls": 99
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 15,
+            "studentCount": 511,
+            "girls": 239
+          }
+        },
+        {
+          "name": "Синфҳои 2",
+          "tajik": {
+            "numberOfClasses": 11,
+            "studentCount": 361,
+            "girls": 216
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 125,
+            "girls": 56
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 486,
+            "girls": 272
+          }
+        },
+        {
+          "name": "Синфҳои 3",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 310,
+            "girls": 199
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 158,
+            "girls": 75
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 13,
+            "studentCount": 468,
+            "girls": 274
+          }
+        },
+        {
+          "name": "Синфҳои 4",
+          "tajik": {
+            "numberOfClasses": 8,
+            "studentCount": 319,
+            "girls": 235
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 165,
+            "girls": 59
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 12,
+            "studentCount": 484,
+            "girls": 294
+          }
+        },
+        {
+          "name": "Синфҳои 5",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 334,
+            "girls": 160
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 127,
+            "girls": 56
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 461,
+            "girls": 216
+          }
+        },
+        {
+          "name": "Синфҳои 6",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 347,
+            "girls": 183
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 106,
+            "girls": 45
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 453,
+            "girls": 228
+          }
+        },
+        {
+          "name": "Синфҳои 7",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 325,
+            "girls": 168
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 87,
+            "girls": 39
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 13,
+            "studentCount": 412,
+            "girls": 207
+          }
+        },
+        {
+          "name": "Синфҳои 8",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 289,
+            "girls": 132
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 79,
+            "girls": 41
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 12,
+            "studentCount": 368,
+            "girls": 173
+          }
+        },
+        {
+          "name": "Синфҳои 9",
+          "tajik": {
+            "numberOfClasses": 8,
+            "studentCount": 233,
+            "girls": 110
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 55,
+            "girls": 37
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 10,
+            "studentCount": 288,
+            "girls": 147
+          }
+        },
+        {
+          "name": "Синфҳои 10",
+          "tajik": {
+            "numberOfClasses": 6,
+            "studentCount": 178,
+            "girls": 84
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 58,
+            "girls": 36
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 8,
+            "studentCount": 236,
+            "girls": 120
+          }
+        },
+        {
+          "name": "Синфҳои 11",
+          "tajik": {
+            "numberOfClasses": 6,
+            "studentCount": 162,
+            "girls": 87
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 55,
+            "girls": 27
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 8,
+            "studentCount": 217,
+            "girls": 114
+          }
+        },
+        {
+          "name": "Ҳамагӣ",
+          "tajik": {
+            "numberOfClasses": 96,
+            "studentCount": 3138,
+            "girls": 1714
+          },
+          "russian": {
+            "numberOfClasses": 37,
+            "studentCount": 1246,
+            "girls": 570
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 133,
+            "studentCount": 4384,
+            "girls": 2284
+          }
+        }
+      ]
+    },
+    {
+      "regionName": "firdavsi",
+      "data": [
+        {
+          "name": "Синфҳои 1",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 280,
+            "girls": 140
+          },
+          "russian": {
+            "numberOfClasses": 6,
+            "studentCount": 231,
+            "girls": 99
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 15,
+            "studentCount": 511,
+            "girls": 239
+          }
+        },
+        {
+          "name": "Синфҳои 2",
+          "tajik": {
+            "numberOfClasses": 11,
+            "studentCount": 361,
+            "girls": 216
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 125,
+            "girls": 56
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 486,
+            "girls": 272
+          }
+        },
+        {
+          "name": "Синфҳои 3",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 310,
+            "girls": 199
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 158,
+            "girls": 75
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 13,
+            "studentCount": 468,
+            "girls": 274
+          }
+        },
+        {
+          "name": "Синфҳои 4",
+          "tajik": {
+            "numberOfClasses": 8,
+            "studentCount": 319,
+            "girls": 235
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 165,
+            "girls": 59
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 12,
+            "studentCount": 484,
+            "girls": 294
+          }
+        },
+        {
+          "name": "Синфҳои 5",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 334,
+            "girls": 160
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 127,
+            "girls": 56
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 461,
+            "girls": 216
+          }
+        },
+        {
+          "name": "Синфҳои 6",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 347,
+            "girls": 183
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 106,
+            "girls": 45
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 453,
+            "girls": 228
+          }
+        },
+        {
+          "name": "Синфҳои 7",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 325,
+            "girls": 168
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 87,
+            "girls": 39
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 13,
+            "studentCount": 412,
+            "girls": 207
+          }
+        },
+        {
+          "name": "Синфҳои 8",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 289,
+            "girls": 132
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 79,
+            "girls": 41
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 12,
+            "studentCount": 368,
+            "girls": 173
+          }
+        },
+        {
+          "name": "Синфҳои 9",
+          "tajik": {
+            "numberOfClasses": 8,
+            "studentCount": 233,
+            "girls": 110
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 55,
+            "girls": 37
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 10,
+            "studentCount": 288,
+            "girls": 147
+          }
+        },
+        {
+          "name": "Синфҳои 10",
+          "tajik": {
+            "numberOfClasses": 6,
+            "studentCount": 178,
+            "girls": 84
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 58,
+            "girls": 36
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 8,
+            "studentCount": 236,
+            "girls": 120
+          }
+        },
+        {
+          "name": "Синфҳои 11",
+          "tajik": {
+            "numberOfClasses": 6,
+            "studentCount": 162,
+            "girls": 87
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 55,
+            "girls": 27
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 8,
+            "studentCount": 217,
+            "girls": 114
+          }
+        },
+        {
+          "name": "Ҳамагӣ",
+          "tajik": {
+            "numberOfClasses": 96,
+            "studentCount": 3138,
+            "girls": 1714
+          },
+          "russian": {
+            "numberOfClasses": 37,
+            "studentCount": 1246,
+            "girls": 570
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 133,
+            "studentCount": 4384,
+            "girls": 2284
+          }
+        }
+      ]
+    },
+    {
+      "regionName": "citySchools",
+      "data": [
+        {
+          "name": "Синфҳои 1",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 280,
+            "girls": 140
+          },
+          "russian": {
+            "numberOfClasses": 6,
+            "studentCount": 231,
+            "girls": 99
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 15,
+            "studentCount": 511,
+            "girls": 239
+          }
+        },
+        {
+          "name": "Синфҳои 2",
+          "tajik": {
+            "numberOfClasses": 11,
+            "studentCount": 361,
+            "girls": 216
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 125,
+            "girls": 56
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 486,
+            "girls": 272
+          }
+        },
+        {
+          "name": "Синфҳои 3",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 310,
+            "girls": 199
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 158,
+            "girls": 75
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 13,
+            "studentCount": 468,
+            "girls": 274
+          }
+        },
+        {
+          "name": "Синфҳои 4",
+          "tajik": {
+            "numberOfClasses": 8,
+            "studentCount": 319,
+            "girls": 235
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 165,
+            "girls": 59
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 12,
+            "studentCount": 484,
+            "girls": 294
+          }
+        },
+        {
+          "name": "Синфҳои 5",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 334,
+            "girls": 160
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 127,
+            "girls": 56
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 461,
+            "girls": 216
+          }
+        },
+        {
+          "name": "Синфҳои 6",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 347,
+            "girls": 183
+          },
+          "russian": {
+            "numberOfClasses": 4,
+            "studentCount": 106,
+            "girls": 45
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 14,
+            "studentCount": 453,
+            "girls": 228
+          }
+        },
+        {
+          "name": "Синфҳои 7",
+          "tajik": {
+            "numberOfClasses": 10,
+            "studentCount": 325,
+            "girls": 168
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 87,
+            "girls": 39
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 13,
+            "studentCount": 412,
+            "girls": 207
+          }
+        },
+        {
+          "name": "Синфҳои 8",
+          "tajik": {
+            "numberOfClasses": 9,
+            "studentCount": 289,
+            "girls": 132
+          },
+          "russian": {
+            "numberOfClasses": 3,
+            "studentCount": 79,
+            "girls": 41
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 12,
+            "studentCount": 368,
+            "girls": 173
+          }
+        },
+        {
+          "name": "Синфҳои 9",
+          "tajik": {
+            "numberOfClasses": 8,
+            "studentCount": 233,
+            "girls": 110
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 55,
+            "girls": 37
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 10,
+            "studentCount": 288,
+            "girls": 147
+          }
+        },
+        {
+          "name": "Синфҳои 10",
+          "tajik": {
+            "numberOfClasses": 6,
+            "studentCount": 178,
+            "girls": 84
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 58,
+            "girls": 36
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 8,
+            "studentCount": 236,
+            "girls": 120
+          }
+        },
+        {
+          "name": "Синфҳои 11",
+          "tajik": {
+            "numberOfClasses": 6,
+            "studentCount": 162,
+            "girls": 87
+          },
+          "russian": {
+            "numberOfClasses": 2,
+            "studentCount": 55,
+            "girls": 27
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 8,
+            "studentCount": 217,
+            "girls": 114
+          }
+        },
+        {
+          "name": "Ҳамагӣ",
+          "tajik": {
+            "numberOfClasses": 96,
+            "studentCount": 3138,
+            "girls": 1714
+          },
+          "russian": {
+            "numberOfClasses": 37,
+            "studentCount": 1246,
+            "girls": 570
+          },
+          "english": {
+            "numberOfClasses": 0,
+            "studentCount": 0,
+            "girls": 0
+          },
+          "total": {
+            "numberOfClasses": 133,
+            "studentCount": 4384,
+            "girls": 2284
+          }
+        }
+      ]
+    }
+  ]

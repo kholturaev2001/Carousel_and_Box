@@ -1,0 +1,42 @@
+{
+  "school": {
+    "statistics": {
+      "academicYear": {
+        "educationLevel": "Education level",
+        "generalSchool": "All schools",
+        "reportGrades1_4": "Report on the results of the academic year in grades 1-4",
+        "report3Levels": "Report on the results of the academic year according 3 levels of education",
+        "allSchool": {
+          "totalStudents": "Total number of students",
+          "totalStudentParticipate": "Total number of attending students",
+          "grade": "Assessment",
+          "learningPercentage": "Success rate",
+          "educationLevel": "Education level",
+          "averageScore": "Average score"
+        }
+      },
+      "formTM": {
+        "heading": "Form ОШ-1",
+        "class": "Class",
+        "classCount": "Number of classes",
+        "studentCount": "Number of pupils",
+        "includeGirls": "Including girls || Including girls (number)",
+        "incomingStudents": "Enrolled",
+        "totalStudents": "Total",
+        "fromCity": "From city",
+        "fromRegion": "From district",
+        "outsideOfRepublic": "Foreigner",
+        "withinInstitutions": "Within the institution",
+        "outgoingStudents": "Gone",
+        "toCity": "To city",
+        "toRegion": "To district"
+      },
+      "rating": {
+        "inClass": "In the class",
+        "total": "Total",
+        "inSchool": "In the school",
+        "inCity": "In the city"
+      }
+    }
+  }
+}

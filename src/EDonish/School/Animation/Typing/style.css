@@ -1,0 +1,43 @@
+
+body {
+  background: navajowhite;
+  background-size: cover;
+  font-family: "Trebuchet MS", sans-serif;
+}
+.container {
+  display: inline-block;
+}
+.typing {
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 1.9rem;
+  border-right: 0.15em solid orange;
+  animation: typing 4s steps(60, end) forwards, blinking 0.8s infinite;
+  animation-direction: normal;
+}
+.delete {
+  overflow: hidden;
+  border-right: 0.15em solid orange;
+  white-space: nowrap;
+  font-size: 1.6rem;
+  width: 0;
+  animation: typing 4s steps(60, end) forwards, blinking 0.8s infinite;
+  animation-direction: reverse;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+@keyframes blinking {
+  from {
+    border-color: transparent;
+  }
+  to {
+    border-color: orange;
+  }
+}

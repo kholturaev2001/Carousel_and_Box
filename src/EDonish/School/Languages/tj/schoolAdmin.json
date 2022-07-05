@@ -1,0 +1,109 @@
+{
+  "staffs": {
+    "universalForm": {
+      "updateTitle": "Таҳрири маълумоти аъзои маъмурият",
+      "addTitle": "Иловаи аъзои маъмурият",
+      "updateTeacherTitle": "Таҳрири маълумоти омӯзгор",
+      "addTeacherTitle": "Иловаи омӯзгор",
+      "aboutEducation": "Муассисаи хатм ва маълумот",
+      "specialization": "Тахассус (касб)",
+      "specializationByDiploma": "Ихтисос аз рӯйи диплом",
+      "rank": "Унвон",
+      "diplomaNumber": "Рақами диплом",
+      "sendSMSText": "Баъд аз сабт СМС бо логин ва рамз равона карда шавад!",
+      "createUser": "Сохтани логин ва рамзи корбар"
+    },
+    "message": {
+      "title": "Хабарнома",
+      "header": {
+        "schoolShortname": "МТМУ",
+        "transferDate": "Санаи интиқол",
+        "orderNumber": "Рақами фармоиш",
+        "classKey": "Рамз"
+      },
+      "transfer": {
+        "title": "Интиқоли корманд",
+        "recoveryEmployee": "Барқарор кардани корманд",
+        "adminException": "Қабул кардани маъмурият",
+        "teacherException": "Қабул кардани омӯзгор",
+        "studentException": "Қабул кардани хонанда",
+        "transferType": "Ҳолати барқарор",
+        "transferMode": "Ҳолати интиқол",
+        "toArchive": "Берун аз барнома (бойгонӣ)",
+        "toSchool": "Ба кадом муассиса"
+      }
+    }
+  },
+  "periods": {
+    "quarters": {
+      "heading": "Умумии асосӣ",
+      "holidays": "Рӯзҳои истироҳат",
+      "quarters": "Чорякҳо",
+      "name": "Номгуй",
+      "start": "Оғоз",
+      "end": "Анҷом"
+    }
+  },
+  "classes": {
+    "cabinets": {
+      "title": {
+        "cabinetNumber": "Рақами утоқ",
+        "responsiblePerson": "Шахси масъул"
+      }
+    },
+    "subjects": {
+      "modal": {
+        "title": "Иловаи фан",
+        "editTitle": "Таҳрири фан",
+        "selectTeacher": "Интихоби омузгор",
+        "selectSubject": "Интихоби фан"
+
+      }
+    },
+    "changes": {
+      "header": {
+        "classKey": "Рамз",
+        "schoolTeacher": "Роҳбари синф",
+        "shift": "Баст"
+      },
+      "curriculumButton": "Нақшаи таълимӣ",
+      "archiveBtn": "Бойгонӣ",
+      "settingBtn": "Танзимот",
+      "modal": {
+        "settings": {
+          "cabinet": "Утоқи дарсӣ",
+          "subgroup": "Зергурӯҳ"
+        }
+      }
+    },
+    "groupInfo": {
+      "students": {
+        "transferForm": {
+          "title": "Интиқоли хонанда",
+          "archive": "Берун аз барнома (бойгонӣ)",
+          "schoolDirection": "Ба кадом муассиса"
+        }
+      },
+      "schedule": {
+        "form": {
+          "dateFrom": "Аз санаи",
+          "startEndTime": "Оғозу анҷом",
+          "cabinet": "Утоқи синфи",
+          "subgroup": "Зергурӯҳ"
+        }
+      },
+      "attendance": {
+        "enter": "Даромад",
+        "exit": "Баромад",
+        "selectStudent": "Интихоби хонанда"
+      }
+    }
+  },
+  "school": {
+    "schoolLogo": "Нишони МТМУ",
+    "schoolPhoto": "Акси МТМУ",
+    "phoneNumbers": "Рақамҳои телефон: ",
+    "webSite": "Сомона: ",
+    "eMail": "Почтаи электронӣ: "
+  }
+}

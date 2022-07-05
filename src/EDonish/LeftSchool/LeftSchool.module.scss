@@ -1,0 +1,173 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: initial;
+}
+$border: 1px solid #bbdefb;
+$color: #0d36a6;
+
+.table {
+  width: 1112px;
+  margin: 100px auto;
+  border: $border;
+  .total {
+    font-size: 14px;
+    display: grid;
+    grid-template-columns: repeat(22, 1fr);
+    background: #5fb3fb;
+
+    > li {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 30px;
+      list-style-type: none;
+      text-align: center;
+      width: 1fr;
+      &:nth-child(1) {
+        width: 230px;
+        display: flex;
+        justify-content: flex-end;
+        > span {
+          padding-right: 30px;
+        }
+      }
+    }
+  }
+
+  .region {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 16px;
+    > span {
+      height: 40px;
+      background: #bbdefb;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 400;
+    }
+
+
+
+    .main {
+      display: flex;
+      flex-direction: column;
+
+      > span {
+        height: 40px;
+        color: $color;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 400;
+      }
+
+      > header {
+        display: grid;
+        grid-template-columns: 430px auto;
+        grid-template-rows: 150px;
+        > ul {
+          display: grid;
+          grid-template-columns: 430px;
+          border: 1px solid #bbdefb;
+          > li {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+          }
+        }
+
+        > div {
+          display: grid;
+          grid-template-columns: repeat(11, 62px);
+          font-size: 12px;
+          > li {
+            border: 1px solid #bbdefb;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 150px;
+            > span {
+              text-align: center;
+            }
+          }
+          > div {
+            display: grid;
+            grid-template-rows: 30px 120px;
+            > span {
+              border: 1px solid #bbdefb;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              text-align: center;
+            }
+            > ul {
+              display: grid;
+              grid-template-columns: 31px 31px;
+              > li {
+                border: 1px solid #bbdefb;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                > span {
+                  font-size: 12px;
+                  line-height: 14px;
+                  transform: rotate(-90deg);
+                  text-align: center;
+                }
+              }
+              > span {
+                transform: rotate(-90deg);
+                width: 119px;
+                height: 30px;
+                border-left: 1px solid #bbdefb;
+                border-right: 1px solid #bbdefb;
+                margin-left: -45px;
+                margin-top: 44.5px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+              }
+            }
+          }
+        }
+      }
+
+      > main {
+        font-size: 12px;
+        > ul {
+          display: grid;
+          grid-template-columns: 430px repeat(22, 1fr);
+          grid-template-rows: 40px;
+          > li {
+            display: flex;
+            align-items: center;
+            border: 1px solid #bbdefb;
+            justify-content: center;
+            &:first-child {
+              display: flex;
+              justify-content: start;
+              align-items: center;
+              padding-left: 15px;
+            }
+          }
+          &:last-child {
+            background: #70ccfa;
+            > li:first-child {
+              display: flex;
+              justify-content: flex-end;
+              padding-right: 30px;
+            }
+            > li {
+              border: none;
+            }
+          }
+        }
+      }
+    }
+  }
+}

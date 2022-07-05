@@ -1,0 +1,108 @@
+{
+  "staffs": {
+    "universalForm": {
+      "updateTitle": "Редактирование информации членов администрации",
+      "addTitle": "Добавление членов администрации",
+      "updateTeacherTitle": "Редактирование информации учителя",
+      "addTeacherTitle": "Добавление учителя",
+      "aboutEducation": "Выпускное учреждение",
+      "specialization": "Специальность (профессия)",
+      "specializationByDiploma": "Специальность по диплому",
+      "rank": "Классификация",
+      "diplomaNumber": "Номер диплома",
+      "sendSMSText": "После записи будет отправлено СМС с логином и паролем!",
+      "createUser": "Создание логин и пароля пользователя"
+    },
+    "message": {
+      "title": "Уведомление",
+      "header": {
+        "schoolShortname": "СОУ",
+        "transferDate": "Дата перевода",
+        "orderNumber": "Номер приказа",
+        "classKey": "Литер"
+      },
+      "transfer": {
+        "title": "Перевод сотрудника",
+        "recoveryEmployee": "Восстановление сотрудника",
+        "adminException": "Принять сотрудника",
+        "teacherException": "Принятие учителя",
+        "studentException": "Принятие ученика",
+        "transferType": "Тип перевода",
+        "transferMode": "Способ перевода",
+        "toArchive": "Вне системы (в архив)",
+        "toSchool": "В какое учреждение"
+      }
+    }
+  },
+  "periods": {
+    "quarters": {
+      "heading": "Основной общий",
+      "holidays": "Выходные дни",
+      "quarters": "Четверти",
+      "name": "Наименование",
+      "start": "Начало",
+      "end": "Конец"
+    }
+  },
+  "classes": {
+    "cabinets": {
+      "title": {
+        "cabinetNumber": "Kабинет",
+        "responsiblePerson": "Ответственное лицо"
+      }
+    },
+    "subjects": {
+      "modal": {
+        "title": "Добавление предмета",
+        "editTitle": "Редактирование предмета",
+        "selectTeacher": "Выбор учителя",
+        "selectSubject": "Выбор предмета"
+      }
+    },
+    "changes": {
+      "header": {
+        "classKey": "Литер",
+        "schoolTeacher": "Классный руководитель",
+        "shift": "Смена"
+      },
+      "curriculumButton": "Учебный план",
+      "archiveBtn": "Архив",
+      "settingBtn": "Настройки",
+      "modal": {
+        "settings": {
+          "cabinet": "Кабинет",
+          "subgroup": "Подгруппа"
+        }
+      }
+    },
+    "groupInfo": {
+      "students": {
+        "transferForm": {
+          "title": "Перевод ученика",
+          "archive": "Вне системы (архив)",
+          "schoolDirection": "В какое учреждение"
+        }
+      },
+      "schedule": {
+        "form": {
+          "dateFrom": "От",
+          "startEndTime": "Начало - конец",
+          "cabinet": "Кабинет",
+          "subgroup": "Подгруппа"
+        }
+      },
+      "attendance": {
+        "enter": "Вход",
+        "exit": "Выход",
+        "selectStudent": "Выбор студента"
+      }
+    }
+  },
+  "school": {
+    "schoolLogo": "Лого СОУ",
+    "schoolPhoto": "Фото СОУ",
+    "phoneNumbers": "Номера телефонов: ",
+    "webSite": "Веб-сайт: ",
+    "eMail": "Электронная почта: "
+  }
+}

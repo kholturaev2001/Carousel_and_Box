@@ -1,0 +1,42 @@
+{
+  "school": {
+    "statistics": {
+      "academicYear": {
+        "educationLevel": "Этап обучения",
+        "generalSchool": "Общешкольный",
+        "reportGrades1_4": "Отчет об итогах учебного года в 1-4 классах",
+        "report3Levels": "Отчет об итогах учебного года по 3 уровням образования",
+        "allSchool": {
+          "totalStudents": "Общее количество студентов",
+          "totalStudentParticipate": "Количество присутствовавших студентов",
+          "grade": "Оценка",
+          "learningPercentage": "Процент успеваемости",
+          "educationLevel": "Качество знаний",
+          "averageScore": "Средний балл"
+        }
+      },
+      "formTM": {
+        "heading": "Форма ОШ-1",
+        "class": "класс",
+        "classCount": "Количество классов",
+        "studentCount": "Количество учеников",
+        "includeGirls": "В том числе девушки",
+        "incomingStudents": "Поступили",
+        "totalStudents": "Всего",
+        "fromCity": "Из города",
+        "fromRegion": "Из районов республики",
+        "outsideOfRepublic": "За пределами республики",
+        "withinInstitutions": "Внутри учреждения",
+        "outgoingStudents": "Ушедшие",
+        "toCity": "В город",
+        "toRegion": "В районы республики"
+      },
+      "rating": {
+        "inClass": "В классе",
+        "total": "Всего",
+        "inSchool": "В школе",
+        "inCity": "В городе"
+      }
+    }
+  }
+}

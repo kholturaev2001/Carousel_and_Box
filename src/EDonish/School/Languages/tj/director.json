@@ -1,0 +1,42 @@
+{
+  "school": {
+    "statistics": {
+      "academicYear": {
+        "educationLevel": "Зинаи таҳсилот",
+        "generalSchool": "Умумимактаби",
+        "reportGrades1_4": "Ҳисобот оид ба натиҷаи соли таҳсил дар  синфҳои 1 - 4",
+        "report3Levels": "Ҳисобот оид ба натиҷаи соли таҳсил аз руйи зина дар 3 зинаи таҳсилот",
+        "allSchool": {
+          "totalStudents": "Шумораи умумии хонандагон",
+          "totalStudentParticipate": "Шумораи хонандагони иштирок карда",
+          "grade": "Баҳо",
+          "learningPercentage": "Фоизи азхудкунӣ",
+          "educationLevel": "Сифати дониш",
+          "averageScore": "Холи миёни"
+        }
+      },
+      "formTM": {
+        "heading": "Шакли ТМ-1",
+        "class": "синф",
+        "classCount": "Шумораи синфҳо",
+        "studentCount": "Шумораи хонандагон",
+        "includeGirls": "Аз ҷумла духтарон",
+        "incomingStudents": "Омадагон",
+        "totalStudents": "Ҳамагӣ",
+        "fromCity": "Аз шаҳр",
+        "fromRegion": "Аз ноҳияҳои ҷумҳурӣ",
+        "outsideOfRepublic": "Берун аз ҷумҳурӣ",
+        "withinInstitutions": "Дохили муассисавӣ",
+        "outgoingStudents": "Рафтагон",
+        "toCity": "Ба шаҳр",
+        "toRegion": "Ба ноҳияҳои ҷумҳурӣ"
+      },
+      "rating": {
+        "inClass": "Дар синф",
+        "total": "Ҳамагӣ",
+        "inSchool": "Дар мактаб",
+        "inCity": "Дар шаҳр"
+      }
+    }
+  }
+}

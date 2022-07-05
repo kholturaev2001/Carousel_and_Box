@@ -1,0 +1,2367 @@
+[
+  {
+    "regionName": "somoni",
+    "data": [
+      {
+        "name": "Синфҳои 1",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 510,
+          "girls": 238
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 12,
+            "girls": 6
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 2",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 486,
+          "girls": 272
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 13,
+            "girls": 6
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 3",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 468,
+          "girls": 274
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 18,
+            "girls": 9
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 4",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 484,
+          "girls": 294
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 19,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 1,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 5",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 461,
+          "girls": 216
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 8,
+            "girls": 4
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 6",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 453,
+          "girls": 228
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 12,
+            "girls": 8
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 7",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 412,
+          "girls": 207
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 23,
+            "girls": 9
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 8",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 368,
+          "girls": 173
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 31,
+            "girls": 14
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 9",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 288,
+          "girls": 147
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 28,
+            "girls": 17
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 10",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 236,
+          "girls": 120
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 21,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 11",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 217,
+          "girls": 114
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 23,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Ҳамагӣ",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 4383,
+          "girls": 2283
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 208,
+            "girls": 103
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 1,
+            "girls": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "regionName": "shohmansur",
+    "data": [
+      {
+        "name": "Синфҳои 1",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 510,
+          "girls": 238
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 12,
+            "girls": 6
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 2",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 486,
+          "girls": 272
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 13,
+            "girls": 6
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 3",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 468,
+          "girls": 274
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 18,
+            "girls": 9
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 4",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 484,
+          "girls": 294
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 19,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 1,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 5",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 461,
+          "girls": 216
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 8,
+            "girls": 4
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 6",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 453,
+          "girls": 228
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 12,
+            "girls": 8
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 7",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 412,
+          "girls": 207
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 23,
+            "girls": 9
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 8",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 368,
+          "girls": 173
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 31,
+            "girls": 14
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 9",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 288,
+          "girls": 147
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 28,
+            "girls": 17
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 10",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 236,
+          "girls": 120
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 21,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 11",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 217,
+          "girls": 114
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 23,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Ҳамагӣ",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 4383,
+          "girls": 2283
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 208,
+            "girls": 103
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 1,
+            "girls": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "regionName": "sino",
+    "data": [
+      {
+        "name": "Синфҳои 1",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 510,
+          "girls": 238
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 12,
+            "girls": 6
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 2",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 486,
+          "girls": 272
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 13,
+            "girls": 6
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 3",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 468,
+          "girls": 274
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 18,
+            "girls": 9
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 4",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 484,
+          "girls": 294
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 19,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 1,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 5",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 461,
+          "girls": 216
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 8,
+            "girls": 4
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 6",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 453,
+          "girls": 228
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 12,
+            "girls": 8
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 7",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 412,
+          "girls": 207
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 23,
+            "girls": 9
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 8",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 368,
+          "girls": 173
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 31,
+            "girls": 14
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 9",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 288,
+          "girls": 147
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 28,
+            "girls": 17
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 10",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 236,
+          "girls": 120
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 21,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 11",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 217,
+          "girls": 114
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 23,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Ҳамагӣ",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 4383,
+          "girls": 2283
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 208,
+            "girls": 103
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 1,
+            "girls": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "regionName": "firdavsi",
+    "data": [
+      {
+        "name": "Синфҳои 1",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 510,
+          "girls": 238
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 12,
+            "girls": 6
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 2",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 486,
+          "girls": 272
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 13,
+            "girls": 6
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 3",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 468,
+          "girls": 274
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 18,
+            "girls": 9
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 4",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 484,
+          "girls": 294
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 19,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 1,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 5",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 461,
+          "girls": 216
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 8,
+            "girls": 4
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 6",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 453,
+          "girls": 228
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 12,
+            "girls": 8
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 7",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 412,
+          "girls": 207
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 23,
+            "girls": 9
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 8",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 368,
+          "girls": 173
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 31,
+            "girls": 14
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 9",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 288,
+          "girls": 147
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 28,
+            "girls": 17
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 10",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 236,
+          "girls": 120
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 21,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 11",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 217,
+          "girls": 114
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 23,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Ҳамагӣ",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 4383,
+          "girls": 2283
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 208,
+            "girls": 103
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 1,
+            "girls": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "regionName": "citySchools",
+    "data": [
+      {
+        "name": "Синфҳои 1",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 510,
+          "girls": 238
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 12,
+            "girls": 6
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 2",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 486,
+          "girls": 272
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 13,
+            "girls": 6
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 3",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 468,
+          "girls": 274
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 18,
+            "girls": 9
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 4",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 484,
+          "girls": 294
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 19,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 1,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 5",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 461,
+          "girls": 216
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 8,
+            "girls": 4
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 6",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 453,
+          "girls": 228
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 12,
+            "girls": 8
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 7",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 412,
+          "girls": 207
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 23,
+            "girls": 9
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 8",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 368,
+          "girls": 173
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 31,
+            "girls": 14
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 9",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 288,
+          "girls": 147
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 28,
+            "girls": 17
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 10",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 236,
+          "girls": 120
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 21,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Синфҳои 11",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 217,
+          "girls": 114
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 23,
+            "girls": 10
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        }
+      },
+      {
+        "name": "Ҳамагӣ",
+        "passed": {
+          "studentCount": 0,
+          "girls": 0,
+          "aStudents": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "bStudents": {
+            "studentCount": 0,
+            "girls": 0
+          }
+        },
+        "unpassed": {
+          "studentCount": 4383,
+          "girls": 2283
+        },
+        "days20": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 208,
+            "girls": 103
+          }
+        },
+        "days40": {
+          "with_reason": {
+            "studentCount": 0,
+            "girls": 0
+          },
+          "no_reason": {
+            "studentCount": 1,
+            "girls": 0
+          }
+        }
+      }
+    ]
+  }
+]
